@@ -1,6 +1,10 @@
 package ru.skypro;
 
 public class Main {
+/*
+    По невнимательности забыл изначально создать новую ветку перед тем,
+    как начать писать код. Прошу прощения
+*/
 
     public static void main(String[] args) {
 
